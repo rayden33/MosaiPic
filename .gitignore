@@ -1,0 +1,13 @@
+.vscode/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+build-*/
+*.exe
+*.out
+*.app
+*.dll
+*.so
+*.dylib
